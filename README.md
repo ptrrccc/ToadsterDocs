@@ -1,13 +1,11 @@
 # ToadsterDocs
 ToadsterBot Documentation
 
-Toadster Bot Documentation
-
 **Toadster Bot**
 - Toadster Bot is multi-functional discord bot with many features.
 
 
-<Required> (Optional)
+'<Required>' (Optional)
   
 **Commands**
 - help: help command, gives the help command for the bot. Usage: +help
