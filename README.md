@@ -28,4 +28,6 @@ ToadsterBot Documentation
 - poll: Create a simple Poll. Usage: +poll [question]
 - statuspage: Get the statuspage! Usage: +statuspage
 - suggest: Suggest a Command! Usage: +suggest
-- 
+
+
+https://discord.gg/e8EdvScj32
