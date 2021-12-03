@@ -4,7 +4,7 @@ ToadsterBot Documentation
 **Toadster Bot**
 - Toadster Bot is multi-functional discord bot with many features.
 
-
+Version 1.2.1
 
   
 **Commands**
@@ -31,3 +31,4 @@ ToadsterBot Documentation
 
 
 https://discord.gg/e8EdvScj32
+Support Server
